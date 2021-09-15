@@ -13,7 +13,7 @@
 <img src="remittance.jpeg" alt="remittance address" width=90%/>  
 
 - 从上图内容中寻找对应信息填入中国的银行提供的汇款单中。
-- 图中最后一项: Payment Reference/For Further Credit to 一定要在汇款单上填写。这项信息将告诉券商这笔钱是给谁的。如无此项信息券商将无法确认此笔汇款的实际接收客户。一般填写在如下图中所示“汇款附言”的地方。（信息已被遮挡，遮挡部分在微信群查看）  
+- 上图中最后一项: Payment Reference/For Further Credit to 一定要在汇款单上填写。这项信息将告诉券商这笔钱是给谁的。如无此项信息券商将无法确认此笔汇款的实际接收客户。一般填写在如下图中所示“汇款附言”的地方。（信息已被遮挡，遮挡部分在微信群查看）  
 <img src="remittance information.png" alt="remittance address" width=60%/>  
 
 
