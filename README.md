@@ -1,4 +1,3 @@
-# 汇款说明
 ### 这是一个汇款的详细说明
 ### 每次汇款前请参照以下说明
 ### 一共有两种汇款选择：
@@ -10,4 +9,4 @@
     - 日本银行的现金账户一般固定，
 ## 汇美元的汇款地址和注意事项
 - 汇往下图中的账户。  
-![美元汇款地址](https://github.com/guhaha97/huikuan/blob/main/remittance.jpeg) 
+<img src="remittance.jpeg" alt="remittance address" width=100%/> 
